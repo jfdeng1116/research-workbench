@@ -31,5 +31,4 @@
 .DS_Store
 Thumbs.db
 
-# 附件
-!*.pdf 的例外请用 git add -f 单独处理
+# 确实需要入库的单个大文件：git add -f <path>
